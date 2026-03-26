@@ -1,0 +1,14 @@
+db.sqlite3
+db.sqlite3-journal
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+ENV/
+.vscode/
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
