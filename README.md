@@ -167,9 +167,9 @@ python manage.py runserver
 - Django
 - Django REST Framework
 - Django Filters
-- SQLite / PostgreSQL
-- Authentication (Session / Token-based)
-- Django Groups (RBAC implementation)
+- SQLite
+- Authentication
+- Django Groups
 
 ---
 
